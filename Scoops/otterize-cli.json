@@ -6,14 +6,14 @@
             "bin": [
                 "otterize.exe"
             ],
-            "hash": "45bb81de1b620bd3c2a843c23875549c7baa31ae8936f19ac2928f13d774d75a"
+            "hash": "64984e0f2bb0daedeca90b7d586e1a77e724f161e9086a4ec03d3025c45cb1ed"
         },
         "64bit": {
             "url": "https://get.otterize.com/otterize-cli/v0.1.3/otterize-cli_0.1.3_Windows_x86_64.zip",
             "bin": [
                 "otterize.exe"
             ],
-            "hash": "066499ec8385a904fdc1a5a4e7414c24f9c5c86cb615d9a4f7a2fa6e0bc22870"
+            "hash": "582c719fa34f12650cf06c8b04f5c5f7a8eb53f0d5d30a1000eb5aa95c05a021"
         }
     },
     "homepage": "https://github.com/otterize/otterize-cli",
