@@ -1,0 +1,22 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "32bit": {
+            "url": "https://get.otterize.com/otterize-cli/v0.1.4/otterize-cli_0.1.4_Windows_i386.zip",
+            "bin": [
+                "otterize.exe"
+            ],
+            "hash": "73e75861fad7028b9357281a20674db96f679c738987ac8ccde77d6b1c5fb425"
+        },
+        "64bit": {
+            "url": "https://get.otterize.com/otterize-cli/v0.1.4/otterize-cli_0.1.4_Windows_x86_64.zip",
+            "bin": [
+                "otterize.exe"
+            ],
+            "hash": "68a859112ffa4b4afefe171b5978f576112cb3093a6f14a98ff06011954b2b30"
+        }
+    },
+    "homepage": "https://github.com/otterize/otterize-cli",
+    "license": "Apache-2.0",
+    "description": "Otterize CLI"
+}
