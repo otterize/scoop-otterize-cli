@@ -1,19 +1,19 @@
 {
-    "version": "0.1.8",
+    "version": "0.1.10",
     "architecture": {
         "32bit": {
-            "url": "https://get.otterize.com/otterize-cli/v0.1.8/otterize_Windows_i386.zip",
+            "url": "https://get.otterize.com/otterize-cli/v0.1.10/otterize_Windows_i386.zip",
             "bin": [
                 "otterize.exe"
             ],
-            "hash": "07e69734d6fd46764584516dd4e1ce874d322be629237cec89abe833c36a7133"
+            "hash": "2a4e8dde61a7f5251c4536744a66ad18ea0121e582a84f99c6ded0d9e38c2666"
         },
         "64bit": {
-            "url": "https://get.otterize.com/otterize-cli/v0.1.8/otterize_Windows_x86_64.zip",
+            "url": "https://get.otterize.com/otterize-cli/v0.1.10/otterize_Windows_x86_64.zip",
             "bin": [
                 "otterize.exe"
             ],
-            "hash": "e1be3991001f7c99bc47760ea9c1296fe180c699bc6af2db5dddaade224dbff3"
+            "hash": "76022bee9f81047d9110fbf217f72646e0ec8b8cf71b3599efc53999bda83552"
         }
     },
     "homepage": "https://github.com/otterize/otterize-cli",
